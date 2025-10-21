@@ -1,0 +1,23 @@
+{
+  "name": "introduction-to-continuous-integration-and-continuous-delivery-deployment",
+  "version": "1.0.0",
+  "description": "This project demonstrates CI/CD principles by building a simple Node.js web application that serves a static webpage. Using GitHub Actions, it automates the build, test, and deployment processes, showcasing how DevOps practices enhance workflow efficiency and ensure seamless code delivery.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ICO-Tech/Introduction-to-Continuous-Integration-and-Continuous-Delivery-Deployment.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ICO-Tech/Introduction-to-Continuous-Integration-and-Continuous-Delivery-Deployment/issues"
+  },
+  "homepage": "https://github.com/ICO-Tech/Introduction-to-Continuous-Integration-and-Continuous-Delivery-Deployment#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
